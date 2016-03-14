@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "dependencies": {
+        "gulp": "^3.9.0",
+        "gulp-concat": "^2.6.0",
+        "gulp-plumber": "^1.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-uglify": "^1.4"
+    },
+    "name": "angular1-client",
+    "main": "gulpfile.js",
+    "license": "ISC"
+}
